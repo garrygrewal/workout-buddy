@@ -4,4 +4,4 @@ Fitness tracking Android app to record workouts
 
 ## Preview
 
-![Login Screen](https://user-images.githubusercontent.com/28207209/62592897-bba9ab80-b889-11e9-8ee3-f91734fae29b.png)
+![Login Screen](https://user-images.githubusercontent.com/28207209/62593025-2fe44f00-b88a-11e9-9944-10694982d9c0.png)
